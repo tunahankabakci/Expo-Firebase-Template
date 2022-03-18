@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423782331682",
+    "project_id": "electus-fdeeb",
+    "storage_bucket": "electus-fdeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423782331682:android:b8b1c1c4a16ae40f31217b",
+        "android_client_info": {
+          "package_name": "com.electus.electus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423782331682-27sqgckm4fu3oaj0tirvffit9jbh1ncm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQ_WZNjNLDpOFqnL9KESC7L0lK4B-iqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423782331682-27sqgckm4fu3oaj0tirvffit9jbh1ncm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
